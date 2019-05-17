@@ -1,0 +1,93 @@
+body{
+	background: url("ocean.jpg") fixed center;
+}
+
+#middle{
+	background: #FFDAB9;
+	height: 900px;
+}
+
+#top_con{
+	position: relative;
+	top: 50px;
+	left: 50px;
+	width: 1280px;
+	height: 450px;
+	font-family: Times New Roman, 標楷體;
+}
+
+#myphoto{
+	position: relative;
+	top: 20px;
+	left: 20px;
+	background: url("me.jpg");
+	width: 480px;
+	height: 360px;
+}
+
+#inpro_text{
+	position: absolute;
+	top: 20px;
+	left: 530px;
+}
+
+#bottom_con{
+	position: relative;
+	bottom: 50px;
+	left: 50px;
+	width: 1280px;
+	height: 350px;
+	font-family: Times New Roman, 標楷體;
+}
+
+#why_text{
+	position: absolute;
+	top: 60px;
+	left: 20px;
+}
+
+#menu{
+	position: absolute;
+	top: 195px;
+	left: 50px;
+	font-size: 18pt;
+}
+
+.warship{
+	font-family: 標楷體;
+}
+
+.warship a:link{
+	color: #0000FF;
+	text-decoration: none;
+}
+
+.warship a:visited{
+	color: #800080;
+	text-decoration: none;
+}
+
+.warship a:hover{
+	color: #008000;
+	text-decoration: underline;
+}
+
+#catphoto{
+	position: absolute;
+	top: 100px;
+	right: 100px;
+	background: url("catgirl.jpg");
+	width: 195px;
+	height: 243px;
+}
+
+#bottom{
+	height: 100px;
+	font-family: Times New Roman, 標楷體;
+	color: #FFFFFF;
+}
+
+#text_bot{
+	position: relative;
+	top: 8px;
+}
